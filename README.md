@@ -28,13 +28,8 @@ with REST APIs, Express, and MongoDB.
 2. Set the MongoDB connection details. The application reads these values from
    environment variables:
 
-   ```bash
-   # macOS/Linux
-   export MONGODB_URI="mongodb://localhost:27017"
-   export MONGODB_DATABASE="students_db"
-
-   # Windows PowerShell
-   $env:MONGODB_URI = "mongodb://localhost:27017"
+   # Nimbus Terminal
+   $env:MONGODB_URI = "mongodb://localhost:5050"
    $env:MONGODB_DATABASE = "students_db"
    ```
 
