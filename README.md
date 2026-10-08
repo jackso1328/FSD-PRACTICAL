@@ -120,8 +120,3 @@ development dependency and then run:
 npm install --save-dev nodemon
 npm run dev
 ```
-
-## License
-
-No license has been selected for this project yet. Add a license before
-publishing if you want others to reuse, modify, or distribute the code.
